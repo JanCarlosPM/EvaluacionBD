@@ -14,5 +14,4 @@ data class EntityProducto(
     val precio: Double?,
     @ColumnInfo("existProd")
     val existencia: Int?
-
 )

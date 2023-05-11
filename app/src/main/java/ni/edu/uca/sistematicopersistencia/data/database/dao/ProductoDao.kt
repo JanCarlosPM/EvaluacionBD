@@ -20,5 +20,4 @@ interface ProductoDao {
 
     @Delete
     suspend fun eliminarReg(producto: EntityProducto)
-
 }
