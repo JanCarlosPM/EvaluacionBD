@@ -37,6 +37,22 @@
         android:layout_height="wrap_content"
         android:text="Guardar" />
 
-
-
+<TextView
+    android:textSize="20dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Hecho por "
+/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jason de Jesus Esquivel Rivera"
+        />
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jan Carlos Prado Mayorga"
+        />
 </LinearLayout>
